@@ -14,7 +14,7 @@ Now, lets answer a 10 short questions...
 
 ![Required Items](ReadmMe-Images/img2.png)
 
-![Required Items](ReadmMe-Images/img3.png)
+
 
 ![Required Items](ReadmMe-Images/img4.png)
 
